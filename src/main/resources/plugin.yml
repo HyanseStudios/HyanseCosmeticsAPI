@@ -1,0 +1,4 @@
+name: HyanseCosmeticsAPI
+version: '${version}'
+main: com.ziwoxyt.hyansecosmetics.HyanseCosmetics
+api-version: 1.16
